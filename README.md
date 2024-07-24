@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>ZRF</title>
     <table>
-      <td>  <img src="C:\Users\WHEN PC\Desktop\hoodie\hmgoepprod.jpeg" width="100" height="100"  alt="ZRF CEO"</td>
+      <td>  <img src="ZRF/AGBADA 1.jpg" width="100" height="100"  alt="ZRF CEO"</td>
       <td><h1>ZAMANI ROYAL FITTINGS </h1></td>
     </table>
 
